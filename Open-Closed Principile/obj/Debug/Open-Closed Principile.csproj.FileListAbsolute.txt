@@ -1,0 +1,7 @@
+D:\Visual Stuido 2019 Projeler\Open-Closed Principile\Open-Closed Principile\bin\Debug\Open-Closed Principile.exe.config
+D:\Visual Stuido 2019 Projeler\Open-Closed Principile\Open-Closed Principile\bin\Debug\Open-Closed Principile.exe
+D:\Visual Stuido 2019 Projeler\Open-Closed Principile\Open-Closed Principile\bin\Debug\Open-Closed Principile.pdb
+D:\Visual Stuido 2019 Projeler\Open-Closed Principile\Open-Closed Principile\obj\Debug\Open-Closed Principile.csproj.AssemblyReference.cache
+D:\Visual Stuido 2019 Projeler\Open-Closed Principile\Open-Closed Principile\obj\Debug\Open-Closed Principile.csproj.CoreCompileInputs.cache
+D:\Visual Stuido 2019 Projeler\Open-Closed Principile\Open-Closed Principile\obj\Debug\Open-Closed Principile.exe
+D:\Visual Stuido 2019 Projeler\Open-Closed Principile\Open-Closed Principile\obj\Debug\Open-Closed Principile.pdb
